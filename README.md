@@ -7,3 +7,5 @@ pip install pymongo
 
 #### To Run the sever for windows
 python cartRESTapi.py
+
+## the dev server starts on localhost port 5000
